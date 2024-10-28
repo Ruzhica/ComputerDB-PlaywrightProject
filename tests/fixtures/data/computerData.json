@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Data Computer A",
+      "introduced": "2023-01-01",
+      "discontinued": "2024-01-01",
+      "company": "Apple Inc."
+    },
+    {
+      "name": "Data Computer B",
+      "introduced": "2023-02-01",
+      "discontinued": "2024-02-01",
+      "company": "IBM"
+    },
+    {
+      "name": "Data Computer C",
+      "introduced": "2023-03-01",
+      "discontinued": "2024-03-01",
+      "company": "Samsung Electronics"
+    }
+  ]
+  
